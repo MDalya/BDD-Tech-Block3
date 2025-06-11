@@ -1,0 +1,3452 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-05-28T12:07:58Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/20986681",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "49",
+        "addr:postcode": "3514TB",
+        "addr:street": "Lijsterstraat",
+        "amenity": "pub",
+        "email": "cafe@averechts.nl",
+        "name": "Averechts",
+        "opening_hours": "Mo 21:00-24:00; Tu 00:00-01:00,20:00-24:00; We,Th 00:00-01:00,21:00-24:00; Fr 00:00-01:00,17:00-24:00; Sa 00:00-02:00,21:00-24:00; Su 00:00-02:00,14:00-23:00",
+        "phone": "+31 30 271 0916",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "twitter": "averechts",
+        "website": "https://www.averechts.nl/",
+        "mood": "jazz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1179062,
+          52.0979188
+        ]
+      },
+      "id": "node/20986681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/20986715",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "3",
+        "addr:postcode": "3511ZN",
+        "addr:street": "Tolsteegbrug",
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "Ledig Erf",
+        "outdoor_seating": "yes",
+        "phone": "+31 30 231 7577",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "toilets:wheelchair": "no",
+        "website": "https://www.ledigerf.nl",
+        "wheelchair": "limited",
+        "wheelchair:description": "Doorgang ca 70 cm.",
+        "mood": "rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1235152,
+          52.0816566
+        ]
+      },
+      "id": "node/20986715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/26780748",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "37-39",
+        "addr:postcode": "3512AG",
+        "addr:street": "Neude",
+        "amenity": "pub",
+        "check_date": "2025-05-22",
+        "facebook": "https://www.facebook.com/CafeDeBeurs",
+        "food": "yes",
+        "indoor_seating": "yes",
+        "name": "De Beurs",
+        "outdoor_seating": "yes",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "toilets:wheelchair": "no",
+        "website": "https://www.debeursutrecht.nl/",
+        "wheelchair": "limited",
+        "wheelchair:description": "drempels 2 x ca 4 cm. binnen zijn alleen de hoge tafels bereikbaar.",
+         "mood": "indie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1190619,
+          52.092868
+        ]
+      },
+      "id": "node/26780748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/26780765",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "196",
+        "addr:postcode": "3511NR",
+        "addr:street": "Oudegracht",
+        "amenity": "pub",
+        "facebook": "https://www.facebook.com/KafeBelgie",
+        "indoor_seating": "yes",
+        "name": "Kafé België",
+        "outdoor_seating": "yes",
+        "phone": "+31 30 231 2666",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "toilets:wheelchair": "no",
+        "website": "https://www.kafebelgie.nl",
+        "wheelchair": "limited",
+        "wheelchair:description": "Drempel ca 4 cm.",
+         "mood": "pop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1215186,
+          52.0890362
+        ]
+      },
+      "id": "node/26780765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/26781648",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "2",
+        "addr:postcode": "3511ZD",
+        "addr:street": "Tolsteegbarrière",
+        "amenity": "pub",
+        "facebook": "https://www.facebook.com/eetcafedepoort",
+        "indoor_seating": "yes",
+        "name": "De Poort",
+        "opening_hours": "Su-Tu 10:00-01:00; We,Th 10:00-02:00; Fr,Sa 10:00-03:00",
+        "outdoor_seating": "yes",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "toilets:wheelchair": "no",
+        "website": "https://www.eetcafedepoort.nl",
+        "wheelchair": "no",
+         "mood": "indie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1235891,
+          52.0818883
+        ]
+      },
+      "id": "node/26781648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/26943470",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "279",
+        "addr:postcode": "3511PA",
+        "addr:street": "Oudegracht",
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "'t Oude Pothuys",
+        "outdoor_seating": "yes",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://www.pothuys.nl/",
+        "wheelchair": "no",
+         "mood": "rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1218902,
+          52.0862082
+        ]
+      },
+      "id": "node/26943470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/27129846",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "23",
+        "addr:postcode": "3514CA",
+        "addr:street": "Adelaarstraat",
+        "amenity": "pub",
+        "brewery": "grolsch;guinness;maximus",
+        "name": "O Leary's",
+        "opening_hours": "Tu-Th 16:00-01:00; Fr 16:00-02:00; Sa 14:00-02:00; Su 14:00-20:00",
+        "phone": "+31 30 271 3680",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://www.olearys-utrecht.com",
+        "wheelchair": "no",
+         "mood": "jazz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1155985,
+          52.0991034
+        ]
+      },
+      "id": "node/27129846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/27467409",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "47",
+        "addr:postcode": "3512PC",
+        "addr:street": "Lange Nieuwstraat",
+        "amenity": "pub",
+        "facebook": "https://www.facebook.com/pages/De-Drie-Dorstige-Herten/118106641671333",
+        "name": "De Drie Dorstige Herten",
+        "old_name": "Het Dorstige Hart",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "toilets:wheelchair": "no",
+        "twitter": "3dorstigeherten",
+        "website": "https://www.dedriedorstigeherten.nl",
+        "wheelchair": "yes",
+         "mood": "techno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1234338,
+          52.0872993
+        ]
+      },
+      "id": "node/27467409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/101440590",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "102",
+        "addr:postcode": "3512AV",
+        "addr:street": "Voorstraat",
+        "amenity": "nightclub",
+        "name": "Bassment Utrecht",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://bassment-utrecht.nl",
+        "wheelchair": "no",
+         "mood": "techno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1229368,
+          52.0952147
+        ]
+      },
+      "id": "node/101440590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/265283827",
+        "amenity": "nightclub",
+        "building": "yes",
+        "name": "Woolloomooloo",
+        "ref:bag": "344100000083726",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "start_date": "1900",
+        "@geometry": "center",
+         "mood": "pop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1225321,
+          52.0939983
+        ]
+      },
+      "id": "way/265283827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/269425246",
+        "amenity": "pub",
+        "building": "yes",
+        "ref:bag": "344100000044589",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "start_date": "1900",
+        "@geometry": "center",
+        "mood": "house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0368421,
+          52.0819228
+        ]
+      },
+      "id": "way/269425246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/464625468",
+        "amenity": "pub",
+        "name": "Cafe de Don",
+        "phone": "+31 30 666 1251",
+        "website": "https://www.cafededon.nl/",
+         "mood": "jazz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0368358,
+          52.0819126
+        ]
+      },
+      "id": "node/464625468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/533116160",
+        "addr:city": "Vleuten",
+        "addr:country": "NL",
+        "addr:housenumber": "49",
+        "addr:postcode": "3451BW",
+        "addr:street": "Stationsstraat",
+        "amenity": "pub",
+        "name": "Vallen Eetcafé-Zalencentrum",
+         "mood": "indie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0120131,
+          52.1032306
+        ]
+      },
+      "id": "node/533116160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/583510005",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "3",
+        "addr:postcode": "3584CT",
+        "addr:street": "Uppsalalaan",
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "Sportcafé Olympos",
+        "outdoor_seating": "yes",
+         "mood": "indie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1748499,
+          52.091154
+        ]
+      },
+      "id": "node/583510005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/631441931",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "71",
+        "addr:postcode": "3512AK",
+        "addr:street": "Voorstraat",
+        "amenity": "pub",
+        "description": "Non-commercial and indepedently run political-cultural center a hosting a wide range of activities including a café, vegan restaurant, concerts, disco nights, political events, jam sessions, benefit events, parties, movies, a library, hostel, and more.",
+        "diet:vegan": "only",
+        "diet:vegetarian": "only",
+        "drink:club-mate": "served",
+        "email": "info@acu.nl",
+        "food": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "name": "ACU",
+        "opening_hours": "Tu,We 18:00-23:00; Th 18:00-03:00, Fr 20:00-04:00,23:00-04:00, Tu,We 18:00-01:00, Sa 18:00-04:00, Su 16:00-23:00",
+        "organic": "yes",
+        "outdoor_seating": "no",
+        "phone": "+31 30 231 4590",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "toilets:wheelchair": "no",
+        "twitter": "het_acu",
+        "website": "https://acu.nl/",
+        "wheelchair": "limited",
+        "wikidata": "Q2805695",
+        "wikipedia": "nl:ACU (Utrecht)",
+         "mood": "techno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1219384,
+          52.0950568
+        ]
+      },
+      "id": "node/631441931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/665876166",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "2",
+        "addr:postcode": "3512EN",
+        "addr:street": "Nobelstraat",
+        "amenity": "pub",
+        "contact:facebook": "https://www.facebook.com/FlorinUtrechtPub",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "email": "florinreservations@gmail.com",
+        "food": "yes",
+        "name": "Florin Utrecht",
+        "opening_hours": "Mo-Tu 16:30-01:00; We 16:00-01:00; Th 16:00-02:00; Fr-Sa 16:00-03:00; Su 16:00-23:00",
+        "phone": "+31 30 231 9957",
+        "source": "local_knowledge",
+        "toilets:wheelchair": "yes",
+        "twitter": "florinutrecht",
+        "website": "https://www.florinutrecht.nl",
+        "wheelchair": "yes",
+        "wheelchair:description": "Helling voor de entree hoogte 25 cm lengte 1,8 m. Toilet 1,1 x 2 m.",
+         "mood": "jazz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1239847,
+          52.0932469
+        ]
+      },
+      "id": "node/665876166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/764648362",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "203",
+        "addr:postcode": "3523KJ",
+        "addr:street": "Verlengde Hoogravenseweg",
+        "amenity": "pub",
+        "check_date": "2025-03-31",
+        "email": "info@cafetropical.nl",
+        "name": "Sportcafé Tropical",
+        "opening_hours": "Mo-Fr 19:00-22:00; Sa 16:00-22:00; Su off",
+        "phone": "+31 30 289 2258",
+        "toilets": "yes",
+        "twitter": "tropicalutrecht",
+        "wheelchair": "limited",
+        "wheelchair:description": "Drempel ca 5cm",
+         "mood": "rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.11664,
+          52.0679309
+        ]
+      },
+      "id": "node/764648362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/873847820",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "140",
+        "addr:postcode": "3511AZ",
+        "addr:street": "Oudegracht",
+        "amenity": "pub",
+        "check_date": "2025-04-17",
+        "indoor_seating": "yes",
+        "name": "Café Flater",
+        "outdoor_seating": "yes",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "toilets:wheelchair": "no",
+        "website": "https://www.cafeflater.nl",
+        "wheelchair": "limited",
+        "wheelchair:description": "Drempel ca 5 cm",
+        "mood": "techno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1175919,
+          52.0918799
+        ]
+      },
+      "id": "node/873847820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/873930113",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "8",
+        "addr:postcode": "3511LH",
+        "addr:street": "Mariaplaats",
+        "amenity": "pub",
+        "cuisine": "italian",
+        "email": "info@littledublin.nl",
+        "name": "Little Dublin",
+        "opening_hours": "Mo-Th 16:00-00:00; Fr-Su 14:00-00:00",
+        "outdoor_seating": "yes",
+        "phone": "+31 30 743 3833",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "toilets:wheelchair": "no",
+        "website": "https://littledublin.nl/",
+        "wheelchair": "limited",
+        "wheelchair:description": "Drempel ca 7 cm.",
+        "mood": "rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1177044,
+          52.0899651
+        ]
+      },
+      "id": "node/873930113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/874056473",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "4",
+        "addr:postcode": "3512AD",
+        "addr:street": "Neude",
+        "amenity": "pub",
+        "check_date": "2025-04-14",
+        "indoor_seating": "yes",
+        "name": "The 5th",
+        "opening_hours": "Mo-Th,Su 09:00-23:00; Fr-Sa 09:00-24:00; Sa-Su 00:00-01:00",
+        "outdoor_seating": "yes",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://www.the5th.nl/utrecht",
+         "mood": "house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1190375,
+          52.0933303
+        ]
+      },
+      "id": "node/874056473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/874084390",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "142",
+        "addr:postcode": "3511AL",
+        "addr:street": "Oudegracht aan de Werf",
+        "amenity": "bar",
+        "name": "Orchid Lounge",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no",
+        "mood": "indie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1177335,
+          52.0917766
+        ]
+      },
+      "id": "node/874084390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/874156506",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "30",
+        "addr:postcode": "3512AG",
+        "addr:street": "Neude",
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "'t Neutje",
+        "outdoor_seating": "yes",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "toilets:wheelchair": "no",
+        "website": "https://neutje.nl/",
+        "wheelchair": "no",
+        "mood": "jazz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1185244,
+          52.0926663
+        ]
+      },
+      "id": "node/874156506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/874156512",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "31",
+        "addr:postcode": "3512AG",
+        "addr:street": "Neude",
+        "amenity": "pub",
+        "name": "Café Claire",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://cafeclaire.nl/",
+        "mood": "pop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1185866,
+          52.0926935
+        ]
+      },
+      "id": "node/874156512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/874156526",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "35",
+        "addr:postcode": "3512AG",
+        "addr:street": "Neude",
+        "amenity": "pub",
+        "brewery": "Heineken",
+        "check_date": "2025-04-17",
+        "food": "yes",
+        "indoor_seating": "yes",
+        "name": "Bierlokaal de Luifel",
+        "outdoor_seating": "yes",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "toilets:wheelchair": "no",
+        "website": "https://www.luifelutrecht.nl",
+        "wheelchair": "no",
+        "mood": "Jazz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1188088,
+          52.0927956
+        ]
+      },
+      "id": "node/874156526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/874329043",
+        "addr:city": "Utrecht",
+        "addr:country": "NL",
+        "addr:housenumber": "16",
+        "addr:postcode": "3512JD",
+        "addr:street": "Domplein",
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Walden",
+        "outdoor_seating": "yes",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "toilets:wheelchair": "no",
+        "website": "https://barwalden.nl/",
+        "wheelchair": "limited",
+        "wheelchair:description": "drempel ca 4 cm",
+        "mood": "rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1208115,
+          52.0908202
+        ]
+      },
+      "id": "node/874329043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/874401876",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "50",
+        "addr:postcode": "3511KJ",
+        "addr:street": "Lijnmarkt",
+        "amenity": "pub",
+        "email": "info@cafedepostillon.nl",
+        "indoor_seating": "yes",
+        "name": "De Postillon",
+        "outdoor_seating": "yes",
+        "phone": "+31 30 743 4140",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://cafedepostillon.nl/",
+        "wheelchair": "no",
+        "mood": "rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1209677,
+          52.0892175
+        ]
+      },
+      "id": "node/874401876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/876203884",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "157",
+        "addr:postcode": "3511AL",
+        "addr:street": "Oudegracht aan de Werf",
+        "amenity": "nightclub",
+        "check_date": "2025-04-12",
+        "name": "K-Sjot",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no",
+        "mood": "indie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1184095,
+          52.0915601
+        ]
+      },
+      "id": "node/876203884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/876235016",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "4",
+        "addr:postcode": "3511JE",
+        "addr:street": "Voor Clarenburg",
+        "amenity": "pub",
+        "name": "Cafe De Binnenstad",
+        "opening_hours:signed": "no",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "toilets:wheelchair": "no",
+        "website": "http://www.cafedebinnenstad.nl/",
+        "wheelchair": "no",
+        "mood": "techno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1163419,
+          52.0907931
+        ]
+      },
+      "id": "node/876235016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/876246106",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "6A",
+        "addr:postcode": "3511JJ",
+        "addr:street": "Achter Clarenburg",
+        "amenity": "pub",
+        "cuisine": "local",
+        "internet_access": "wlan",
+        "name": "Olivier",
+        "opening_hours:signed": "no",
+        "phone": "+31 30 236 7876",
+        "website": "https://utrecht.cafe-olivier.be/",
+        "wheelchair": "limited",
+        "wheelchair:description": "helling ca 25 cm lengte ca 1 m",
+        "mood": "house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1157815,
+          52.0906787
+        ]
+      },
+      "id": "node/876246106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/877813192",
+        "addr:city": "Utrecht",
+        "addr:country": "NL",
+        "addr:housenumber": "8",
+        "addr:postcode": "3511KW",
+        "addr:street": "Donkeregaard",
+        "amenity": "pub",
+        "facebook": "https://www.facebook.com/CafeOrloff",
+        "indoor_seating": "yes",
+        "name": "Orloff",
+        "outdoor_seating": "yes",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "toilets:wheelchair": "no",
+        "twitter": "CafeOrloff",
+        "website": "https://www.orloff.nl/?location=cafe-orloff",
+        "wheelchair": "limited",
+        "wheelchair:description": "Drempel ca 8 cm.",
+        "mood": "jazz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1211749,
+          52.0898367
+        ]
+      },
+      "id": "node/877813192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/917969369",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "402",
+        "addr:postcode": "3551CX",
+        "addr:street": "Amsterdamsestraatweg",
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "Thanasis",
+        "opening_hours": "Mo-Su 08:00-24:00",
+        "outdoor_seating": "no",
+        "payment:cash": "yes",
+        "phone": "+31 30 244 2705",
+        "source": "BAG",
+        "source:date": "2014-01-22",
+        "wheelchair": "no",
+        "mood": "indie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0942925,
+          52.1038016
+        ]
+      },
+      "id": "node/917969369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/918877296",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "31",
+        "addr:postcode": "3583CJ",
+        "addr:street": "Jan van Scorelstraat",
+        "amenity": "pub",
+        "check_date": "2025-01-15",
+        "facebook": "https://www.facebook.com/janprimus",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Jan Primus",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes",
+        "mood": "techno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1444767,
+          52.0863827
+        ]
+      },
+      "id": "node/918877296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/940894114",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "10",
+        "addr:postcode": "3511RK",
+        "addr:street": "Willemstraat",
+        "amenity": "pub",
+        "name": "Café 't Oude Pierement",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://www.oudepierement.nl",
+        "mood": "pop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1132905,
+          52.0935905
+        ]
+      },
+      "id": "node/940894114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/940894119",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "12",
+        "addr:postcode": "3511RK",
+        "addr:street": "Willemstraat",
+        "amenity": "pub",
+        "name": "Café Ome Willem",
+        "old_name": "Café Potters",
+        "opening_hours:signed": "no",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "twitter": "cafeomewillem",
+        "website": "https://www.cafeomewillem.nl/",
+        "mood": "indie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1132849,
+          52.0936404
+        ]
+      },
+      "id": "node/940894119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/942325883",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "3",
+        "addr:postcode": "3511LN",
+        "addr:street": "Mariastraat",
+        "amenity": "pub",
+        "facebook": "https://www.facebook.com/pages/t-College/171323389589035",
+        "indoor_seating": "yes",
+        "name": "'t College",
+        "outdoor_seating": "yes",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "twitter": "cafehetcollege",
+        "website": "https://cafehetcollege.nl",
+        "wheelchair": "no",
+        "mood": "house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1170717,
+          52.0905885
+        ]
+      },
+      "id": "node/942325883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/945704979",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "32",
+        "addr:postcode": "3511BW",
+        "addr:street": "Waterstraat",
+        "amenity": "pub",
+        "facebook": "https://www.facebook.com/pages/Ouwe-Dikke-Dries/264144003631744",
+        "name": "Ouwe Dikke Dries",
+        "source": "local_knowledge",
+        "website": "https://ouwedikkedries.nl/",
+        "mood": "jazz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1131209,
+          52.0946544
+        ]
+      },
+      "id": "node/945704979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/945890580",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "17",
+        "addr:postcode": "3512BD",
+        "addr:street": "Jansveld",
+        "amenity": "pub",
+        "facebook": "https://www.facebook.com/debastaard",
+        "indoor_seating": "yes",
+        "name": "Theatercafé De Bastaard",
+        "opening_hours": "Mo-Th 16:00-02:00, Fr,Sa 16:00-03:00",
+        "outdoor_seating": "no",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "twitter": "debastaard",
+        "website": "https://www.debastaard.nl/",
+        "wheelchair": "no",
+        "mood": "rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1200298,
+          52.0940142
+        ]
+      },
+      "id": "node/945890580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1046427757",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "32",
+        "addr:postcode": "3511AP",
+        "addr:street": "Oudegracht",
+        "amenity": "pub",
+        "description": "Studentenvereniging Utrecht",
+        "name": "S.S.R-N.U.",
+        "phone": "+31 30 231 7548",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://ssr-nu.nl/",
+        "mood": "indie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1168044,
+          52.0954381
+        ]
+      },
+      "id": "node/1046427757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1233779063",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "170",
+        "addr:postcode": "3511NP",
+        "addr:street": "Oudegracht",
+        "amenity": "pub",
+        "facebook": "https://www.facebook.com/cafejandewinter",
+        "indoor_seating": "yes",
+        "name": "Jan de Winter",
+        "outdoor_seating": "yes",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "toilets:wheelchair": "no",
+        "twitter": "cafejandewinter",
+        "website": "http://www.cafejandewinter.nl/",
+        "wheelchair": "no",
+        "wheelchair:description": "Drempel ca 10 cm.",
+        "mood": "rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1212696,
+          52.0896095
+        ]
+      },
+      "id": "node/1233779063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1659043373",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "47",
+        "addr:postcode": "3511AC",
+        "addr:street": "Oudegracht",
+        "amenity": "bar",
+        "check_date:opening_hours": "2024-02-19",
+        "contact:facebook": "https://www.facebook.com/CafeKalff",
+        "indoor_seating": "yes",
+        "lgbtq": "primary",
+        "name": "Café Kalff",
+        "old_name": "Café de Wolkenkrabber, Chueca",
+        "opening_hours": "Tu-Th 04:00-01:00, Fr 16:00-02:00, Sa 15:00-02:00, Su 15:00-23:00",
+        "outdoor_seating": "yes",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "twitter": "CafeKalff",
+        "website": "http://www.cafekalff.nl/",
+        "wheelchair": "limited",
+        "mood": "pop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.11629,
+          52.0949261
+        ]
+      },
+      "id": "node/1659043373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1659043387",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "64",
+        "addr:postcode": "3511AS",
+        "addr:street": "Oudegracht",
+        "amenity": "bar",
+        "facebook": "https://www.facebook.com/BodytalkUtrecht",
+        "lgbtq": "primary",
+        "name": "Bodytalk",
+        "smoking": "outside",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://www.bodytalk.org",
+        "wheelchair": "limited",
+        "wikidata": "Q67086031",
+        "mood": "techno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1169088,
+          52.0946162
+        ]
+      },
+      "id": "node/1659043387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1696388085",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "4",
+        "addr:postcode": "3512TW",
+        "addr:street": "Breedstraat",
+        "amenity": "bar",
+        "name": "Café Marktzicht",
+        "opening_hours": "Mo-Fr 10:30-02:30; Sa 07:00-02:30; Su 12:00-00:00",
+        "opening_hours:signed": "no",
+        "phone": "+31 30 231 3390",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "start_date": "1898",
+        "toilets:wheelchair": "no",
+        "website": "https://marktzicht.intercafe.nl/",
+        "wheelchair": "no",
+        "mood": "house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1183907,
+          52.0951155
+        ]
+      },
+      "id": "node/1696388085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1696388087",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "8",
+        "addr:postcode": "3512TW",
+        "addr:street": "Breedstraat",
+        "amenity": "bar",
+        "mobile": "+31 6 24 90 49 01",
+        "name": "De Stadsgenoot",
+        "opening_hours": "Mo-Th 15:00-01:00, Fr,Sa 15:00-03:00, Su 14:00-22:00",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://www.destadsgenoot.nl",
+        "mood": "jazz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1185745,
+          52.0951333
+        ]
+      },
+      "id": "node/1696388087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1762961396",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "3",
+        "addr:postcode": "3511ZG",
+        "addr:street": "Twijnstraat",
+        "amenity": "pub",
+        "email": "info@cafelijn4.nl",
+        "name": "Café Lijn 4",
+        "old_name": "Café de Maan",
+        "opening_hours": "Mo 16:00-22:00; Tu-We 16:00-00:00; Th 16:00-01:00; Sa 14:00-02:00; Su 14:00-00:00",
+        "phone": "+31 30 231 54 81",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "toilets:wheelchair": "no",
+        "website": "https://cafelijn4.nl",
+        "wheelchair": "limited",
+        "wheelchair:description": "smalle toegang (er kunnen 2 deuren open).",
+        "mood": "rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1232685,
+          52.0836057
+        ]
+      },
+      "id": "node/1762961396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1762961433",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "43",
+        "addr:postcode": "3511ZH",
+        "addr:street": "Twijnstraat",
+        "amenity": "pub",
+        "email": "info@stichtsetaveerne.nl",
+        "name": "Stichtse Taveerne",
+        "opening_hours": "Mo-Th 13:00-02:00; Fr-Sa 13:00-03:00; Su 14:00-00:00",
+        "phone": "+31 30 231 55 55",
+        "smoking": "no",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "toilets:wheelchair": "no",
+        "website": "https://www.stichtsetaveerne.nl",
+        "wheelchair": "no",
+        "mood": "pop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1233252,
+          52.0828124
+        ]
+      },
+      "id": "node/1762961433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1824870558",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "26",
+        "addr:postcode": "3531BN",
+        "addr:street": "Leidsekade",
+        "amenity": "pub",
+        "name": "De Kade",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "mood": "pop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1043685,
+          52.0907195
+        ]
+      },
+      "id": "node/1824870558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1826204862",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "10",
+        "addr:postcode": "3512TD",
+        "addr:street": "Loeff Berchmakerstraat",
+        "amenity": "bar",
+        "check_date": "2025-04-12",
+        "email": "utrecht@chupitos.nl",
+        "facebook": "https://www.facebook.com/chupitosutr",
+        "name": "Chupitos Shooter Bar",
+        "old_name": "U Rock!",
+        "opening_hours": "Tu-We 22:00-04:00; Th-Sa 22:00-05:00",
+        "opening_hours:signed": "no",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://chupitos.nl/locations/utrecht",
+        "mood": "house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1181649,
+          52.093928
+        ]
+      },
+      "id": "node/1826204862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1826248569",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "34",
+        "addr:postcode": "3512TD",
+        "addr:street": "Loeff Berchmakerstraat",
+        "amenity": "pub",
+        "email": "willie@cafedomkop.nl",
+        "mobile": "+31 6 24987838",
+        "name": "Café Domkop",
+        "old_name": "Café de Maartenshof",
+        "opening_hours": "Tu-Th 17:00-01:00; Fr 17:00-02:00; Sa 13:00-02:00; Su 13:00-23:00",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://cafedomkop.nl/",
+        "mood": "jazz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1181327,
+          52.0944927
+        ]
+      },
+      "id": "node/1826248569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1832023489",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "4",
+        "addr:postcode": "3512TD",
+        "addr:street": "Loeff Berchmakerstraat",
+        "amenity": "bar",
+        "check_date": "2025-04-12",
+        "contact:instagram": "https://www.instagram.com/backandfourthutrecht/",
+        "email": "backandfourth.utrecht@gmail.com",
+        "min_age": "24",
+        "name": "Back and Fourth",
+        "old_name": "KostenKoper",
+        "opening_hours": "Fr 23:00-04:30; Sa-Su 21:00-05:00",
+        "phone": "+31 6 45360505",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://www.backandfourth.nl/",
+        "mood": "pop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1181714,
+          52.0937971
+        ]
+      },
+      "id": "node/1832023489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1905721137",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "21",
+        "addr:postcode": "3512BM",
+        "addr:street": "Janskerkhof",
+        "alt_name": "Studentencafé",
+        "amenity": "pub",
+        "brewery": "Heineken",
+        "food": "yes",
+        "name": "'t Pakhuis",
+        "outdoor_seating": "yes",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://www.hetpakhuis.nl",
+        "wheelchair": "no",
+        "mood": "rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1206118,
+          52.0938599
+        ]
+      },
+      "id": "node/1905721137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1905721138",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "17A",
+        "addr:postcode": "3512BM",
+        "addr:street": "Janskerkhof",
+        "amenity": "pub",
+        "brewery": "Grolsch",
+        "description": "Bar/cafe with an extensive patio and live music.",
+        "facebook": "https://www.facebook.com/HofmanCafe",
+        "food": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Hofman Café",
+        "opening_hours": "Mo-Th, Su 10:00-01:00; Fr, Sa 10:00-04:00",
+        "outdoor_seating": "yes",
+        "toilets:wheelchair": "no",
+        "twitter": "HofmanCafe",
+        "website": "https://hofman-utrecht.nl/",
+        "wheelchair": "no",
+        "mood": "indie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1211259,
+          52.0940059
+        ]
+      },
+      "id": "node/1905721138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1915103049",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "37",
+        "addr:postcode": "3511PT",
+        "addr:street": "Lange Smeestraat",
+        "amenity": "pub",
+        "contact:twitter": "cafederat",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "name": "Café DeRat",
+        "outdoor_seating": "no",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "toilets:wheelchair": "no",
+        "twitter": "cafederat",
+        "website": "https://www.cafederat.nl",
+        "wheelchair": "limited",
+        "wheelchair:description": "drempel ca 5cm. doorgang ca 75 cm. binnen beperkte manoeuvreerruimte.",
+        "mood": "indie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1205465,
+          52.0859642
+        ]
+      },
+      "id": "node/1915103049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1928776162",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "4",
+        "addr:postcode": "3512AM",
+        "addr:street": "Voorstraat",
+        "amenity": "bar",
+        "check_date": "2025-04-12",
+        "facebook": "https://www.facebook.com/pages/Cafe-Voortuin/170020529717227",
+        "name": "Café Voortuin",
+        "old_name": "Neudezicht",
+        "opening_hours:signed": "no",
+        "phone": "+31 30 223 1778",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://www.cafevoortuin.nl",
+        "wheelchair": "limited",
+        "mood": "indie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1184824,
+          52.0937884
+        ]
+      },
+      "id": "node/1928776162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1928776163",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "10",
+        "addr:postcode": "3512AM",
+        "addr:street": "Voorstraat",
+        "amenity": "bar",
+        "check_date": "2025-05-22",
+        "indoor_seating": "yes",
+        "name": "De achtertuin",
+        "outdoor_seating": "yes",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "wheelchair": "yes",
+        "mood": "jazz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1186192,
+          52.0939812
+        ]
+      },
+      "id": "node/1928776163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1929238004",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "19",
+        "addr:postcode": "3512TL",
+        "addr:street": "Predikherenstraat",
+        "amenity": "bar",
+        "check_date": "2025-04-12",
+        "facebook": "https://www.facebook.com/wijnbar.vinvin",
+        "name": "Wijnbar VinVin",
+        "opening_hours:signed": "no",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://www.wijnbarvinvin.nl",
+        "mood": "rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1186519,
+          52.0945819
+        ]
+      },
+      "id": "node/1929238004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1929238010",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "2",
+        "addr:postcode": "3512AD",
+        "addr:street": "Neude",
+        "amenity": "bar",
+        "check_date": "2025-05-22",
+        "facebook": "https://www.facebook.com/wijncafelefebvre",
+        "indoor_seating": "yes",
+        "name": "Wijncafé Lefebvre",
+        "opening_hours": "Mo-Su 15:00-18:00+",
+        "outdoor_seating": "yes",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "toilets:wheelchair": "no",
+        "twitter": "wijncafeutrecht",
+        "website": "http://www.wijncafelefebvre.nl/",
+        "wheelchair": "limited",
+        "wheelchair:description": "Drempel ca 5 cm.",
+        "mood": "pop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1191835,
+          52.0931201
+        ]
+      },
+      "id": "node/1929238010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1952110596",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "1",
+        "addr:postcode": "3511AB",
+        "addr:street": "Oudegracht",
+        "amenity": "pub",
+        "email": "j.a.wierkx@cafe-weerdzicht.nl",
+        "indoor_seating": "yes",
+        "name": "Café Weerdzicht",
+        "opening_hours:signed": "no",
+        "outdoor_seating": "no",
+        "phone": "+31 30 231 8271",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "twitter": "CafeWeerdzicht",
+        "website": "http://www.cafe-weerdzicht.nl/",
+        "wheelchair": "limited",
+        "mood": "rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1159258,
+          52.0960637
+        ]
+      },
+      "id": "node/1952110596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1953430547",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "323",
+        "addr:postcode": "3511PC",
+        "addr:street": "Oudegracht",
+        "amenity": "bar",
+        "name": "Café de Morgenster",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited",
+        "wheelchair:description": "Drempel ca 5 cm\r\nBinnen is beperkte manoeuvreerruimte",
+        "mood": "house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1223144,
+          52.0850014
+        ]
+      },
+      "id": "node/1953430547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2114930482",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "62",
+        "addr:postcode": "3512EE",
+        "addr:street": "Lange Jufferstraat",
+        "amenity": "pub",
+        "name": "Tilt !",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "toilets:wheelchair": "no",
+        "website": "https://www.cafetilt.nl/",
+        "wheelchair": "yes",
+        "mood": "jazz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1256967,
+          52.094765
+        ]
+      },
+      "id": "node/2114930482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2114937232",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "58",
+        "addr:postcode": "3512EE",
+        "addr:street": "Lange Jufferstraat",
+        "amenity": "pub",
+        "brewery": "yes",
+        "name": "Café de Stad",
+        "opening_hours": "Mo-Th 16:00-01:00; Fr-Sa 14:00-02:00; Su 14:00-20:00",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "smoking": "outside",
+        "source": "BAG;local knowledge",
+        "source:date": "2014-02-11",
+        "website": "https://www.cafedestad.nl",
+        "mood": "rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1256606,
+          52.0946804
+        ]
+      },
+      "id": "node/2114937232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2254994280",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "303",
+        "addr:postcode": "3512EM",
+        "addr:street": "Nobelstraat",
+        "amenity": "bar",
+        "check_date": "2024-02-27",
+        "mobile": "+316 81 83 83 20",
+        "name": "Feestcafé de Kneus",
+        "opening_hours": "Mo-Su 20:00-05:00",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://www.feestcafedekneus.nl/",
+        "mood": "techno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1263052,
+          52.0928427
+        ]
+      },
+      "id": "node/2254994280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2255005263",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "283",
+        "addr:postcode": "3512EM",
+        "addr:street": "Nobelstraat",
+        "amenity": "bar",
+        "disused:shop": "yes",
+        "email": "info@cafe-otje.nl",
+        "name": "Café Otje",
+        "opening_hours": "Mo-Sa 22:00-04:00",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "mood": "jazz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1260817,
+          52.0928553
+        ]
+      },
+      "id": "node/2255005263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2255021654",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "193",
+        "addr:postcode": "3512EM",
+        "addr:street": "Nobelstraat",
+        "amenity": "pub",
+        "check_date": "2023-08-04",
+        "name": "’t Pandje",
+        "opening_hours": "Mo-Sa 21:00-03:30",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "http://www.pandje.com/",
+        "mood": "indie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1249553,
+          52.0929555
+        ]
+      },
+      "id": "node/2255021654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2255032424",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "243",
+        "addr:postcode": "3512EM",
+        "addr:street": "Nobelstraat",
+        "amenity": "bar",
+        "check_date": "2024-02-27",
+        "name": "Jaloezie",
+        "old_name": "Zotte",
+        "opening_hours": "Mo-Sa 10:00-04:00",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes",
+        "wheelchair:description": "Toilet 1,1 x 2 m.",
+        "mood": "rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1257957,
+          52.0928803
+        ]
+      },
+      "id": "node/2255032424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2255048632",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "8",
+        "addr:postcode": "3512EN",
+        "addr:street": "Nobelstraat",
+        "amenity": "bar",
+        "check_date": "2024-02-27",
+        "facebook": "https://www.facebook.com/grandcafelievelust",
+        "name": "Grand Café De Vrienden",
+        "opening_hours": "We-Fr 23:00-04:00; Sa 22:00-04:00; Su 22:00-03:00",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://devriendenutrecht.nl/",
+        "mood": "jazz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1249451,
+          52.0931271
+        ]
+      },
+      "id": "node/2255048632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2255093120",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "21",
+        "addr:postcode": "3512EJ",
+        "addr:street": "Lucasbolwerk",
+        "amenity": "pub",
+        "internet_access": "wlan",
+        "name": "Rosie",
+        "old_name": "Zocher",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://www.rosieutrecht.nl",
+        "mood": "indie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1258329,
+          52.094394
+        ]
+      },
+      "id": "node/2255093120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2255779590",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "16",
+        "addr:postcode": "3512BB",
+        "addr:street": "Lange Jansstraat",
+        "amenity": "bar",
+        "name": "’t Gras van de Buren",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "toilets:wheelchair": "no",
+        "website": "https://www.grasvandeburen.nl",
+        "wheelchair": "no",
+        "wheelchair:description": "smalle doorgang",
+        "mood": "pop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1198127,
+          52.0936073
+        ]
+      },
+      "id": "node/2255779590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2270937357",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "36",
+        "addr:postcode": "3582EA",
+        "addr:street": "Ledig Erf",
+        "amenity": "pub",
+        "internet_access": "wlan",
+        "microbrewery": "yes",
+        "name": "Brothers in Law Taphouse",
+        "not:brand:wikidata": "Q57076079",
+        "ref:bag": "344010000159548",
+        "source": "BAG",
+        "website": "https://brothersinlawtaphouse.nl/",
+        "wheelchair": "yes",
+        "mood": "house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1245899,
+          52.0810444
+        ]
+      },
+      "id": "node/2270937357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2302450336",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "24",
+        "addr:postcode": "3512EP",
+        "addr:street": "Nobelstraat",
+        "amenity": "bar",
+        "name": "Fezz Lounge",
+        "opening_hours": "Mo-Th 15:00-23:59; Fr 15:00-02:00; Sa 16:00-02:00; Su 16:00-23:59",
+        "phone": "+31 30 231 0022",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://fezzlounge.nl/",
+        "mood": "indie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1257331,
+          52.0930564
+        ]
+      },
+      "id": "node/2302450336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2429056487",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "22",
+        "addr:postcode": "3523CC",
+        "addr:street": "Helling",
+        "amenity": "pub",
+        "contact:facebook": "https://facebook.com/kleinberlijn.de",
+        "currency:EUR": "yes",
+        "currency:others": "no",
+        "email": "info@kleinberlijn.de",
+        "internet_access": "wlan",
+        "name": "Klein Berlijn",
+        "opening_hours": "Su-Th,PH 12:00-24:00; Fr,Sa 12:00-01:00",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "phone": "+31 30 254 6380",
+        "smoking": "outside",
+        "source": "BAG",
+        "source:date": "2016-01-14",
+        "website": "https://www.kleinberlijn.de/",
+        "wifi": "free",
+        "mood": "jazz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.121992,
+          52.0766161
+        ]
+      },
+      "id": "node/2429056487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2466872946",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "22",
+        "addr:postcode": "3511BJ",
+        "addr:street": "Drieharingstraat",
+        "amenity": "nightclub",
+        "check_date:opening_hours": "2024-02-13",
+        "name": "Club Poema",
+        "opening_hours:signed": "no",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no",
+        "mood": "pop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.115484,
+          52.091954
+        ]
+      },
+      "id": "node/2466872946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2536553798",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "23",
+        "addr:postcode": "3572AB",
+        "addr:street": "Biltstraat",
+        "amenity": "bar",
+        "email": "info@restaurantconcours.nl",
+        "name": "Concours",
+        "opening_hours": "Th-Sa 15:00-23:00; Su 14:00-19:00",
+        "phone": "+31 30 223 1158",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://www.restaurantconcours.nl/",
+        "wheelchair": "no",
+        "mood": "indie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1274968,
+          52.0949789
+        ]
+      },
+      "id": "node/2536553798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2569751294",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "63",
+        "addr:postcode": "3572AH",
+        "addr:street": "Biltstraat",
+        "amenity": "pub",
+        "name": "Binnen Best",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "toilets:wheelchair": "no",
+        "website": "https://www.cafebinnenbest.nl/",
+        "wheelchair": "limited",
+        "wheelchair:description": "binnen beperkte ruimte",
+        "mood": "jazz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1293282,
+          52.095082
+        ]
+      },
+      "id": "node/2569751294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2569754011",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "69",
+        "addr:postcode": "3572AH",
+        "addr:street": "Biltstraat",
+        "amenity": "bar",
+        "contact:facebook": "cafetantedoor",
+        "name": "Café Tante Door",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "wheelchair": "limited",
+        "mood": "house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.129602,
+          52.0950931
+        ]
+      },
+      "id": "node/2569754011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2600497384",
+        "addr:city": "De Meern",
+        "addr:housenumber": "2A",
+        "addr:street": "Pratumplaats",
+        "amenity": "bar",
+        "craft": "brewery",
+        "name": "Brouwerij Maximus B.V.",
+        "phone": "+31 6 83450013",
+        "website": "https://www.brouwerijmaximus.nl",
+        "wheelchair": "yes",
+        "mood": "pop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0459234,
+          52.0885113
+        ]
+      },
+      "id": "node/2600497384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2610906187",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "16",
+        "addr:postcode": "3512EH",
+        "addr:street": "Lucasbolwerk",
+        "amenity": "bar",
+        "email": "info@biton.nl",
+        "name": "B.I.T.O.N.",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://www.biton.nl/",
+        "wikidata": "Q3342851",
+        "wikipedia": "nl:B.I.T.O.N.",
+        "mood": "rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1259357,
+          52.0940353
+        ]
+      },
+      "id": "node/2610906187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2632909909",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "80",
+        "addr:postcode": "3551EM",
+        "addr:street": "Concordiastraat",
+        "amenity": "bar",
+        "brewery": "yes",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "email": "info@depingpongclub.nl",
+        "name": "De Ping Pong Club",
+        "opening_hours": "We-Sa 12:00-23:00; Su 12:00-22:00",
+        "outdoor_seating": "yes",
+        "phone": "+31 6 39553783",
+        "source": "BAG",
+        "source:date": "2014-01-22",
+        "start_date": "2019-03-01",
+        "website": "https://depingpongclub.nl",
+        "mood": "jazz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0997826,
+          52.0972795
+        ]
+      },
+      "id": "node/2632909909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2681373015",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "197",
+        "addr:postcode": "3512LN",
+        "addr:street": "Nieuwegracht",
+        "amenity": "pub",
+        "name": "Rubens Proeflokaal",
+        "opening_hours": "Th-Sa 16:00-24:00; Su 15:00-20:00",
+        "phone": "+31 30 878 6637",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://rubensproeflokaal.nl",
+        "mood": "house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.127342,
+          52.0848029
+        ]
+      },
+      "id": "node/2681373015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2684300939",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "3",
+        "addr:postcode": "3512HA",
+        "addr:street": "Jansdam",
+        "amenity": "pub",
+        "facebook": "https://www.facebook.com/MickOconnellsUtrecht",
+        "food": "yes",
+        "name": "Mick O'Connells",
+        "opening_hours:signed": "no",
+        "source": "local_knowledge",
+        "source:date": "2014-02-11",
+        "website": "https://utrecht.mickoconnells.nl/en/",
+        "wheelchair": "no",
+        "mood": "pop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1226334,
+          52.0924821
+        ]
+      },
+      "id": "node/2684300939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2701981771",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "1",
+        "addr:postcode": "3514GA",
+        "addr:street": "Willem van Noortstraat",
+        "amenity": "pub",
+        "name": "Achter de koekoek",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://www.achterdekoekoek.nl/",
+        "mood": "techno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1197519,
+          52.100395
+        ]
+      },
+      "id": "node/2701981771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2701983963",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "25",
+        "addr:postcode": "3514CS",
+        "addr:street": "Koekoekstraat",
+        "amenity": "pub",
+        "facebook": "https://www.facebook.com/cafefokusutrecht",
+        "name": "Café Fokus",
+        "opening_hours": "We-Th 16:00-24:00; Fr-Sa 16:00-01:00",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://cafefokus.nl/",
+        "wheelchair": "no",
+        "mood": "indie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1200871,
+          52.0983061
+        ]
+      },
+      "id": "node/2701983963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2701986289",
+        "access": "private",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "40",
+        "addr:postcode": "3514AR",
+        "addr:street": "Bemuurde Weerd Oostzijde",
+        "amenity": "bar",
+        "name": "Stockholm Cafe",
+        "note:access": "Private parties only",
+        "phone": "+31 6 42145393",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://stockholmcafe.nl/",
+        "mood": "house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1143625,
+          52.0984261
+        ]
+      },
+      "id": "node/2701986289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2701988073",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "65",
+        "addr:postcode": "3514GC",
+        "addr:street": "Willem van Noortstraat",
+        "amenity": "bar",
+        "name": "Sumventure",
+        "opening_hours": "We-Su 15:00-24:00",
+        "outdoor_seating": "yes",
+        "phone": "+31 30 202 7002",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://sumventure.nl/",
+        "wheelchair": "limited",
+        "mood": "pop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1211641,
+          52.1012037
+        ]
+      },
+      "id": "node/2701988073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2709276383",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "12",
+        "addr:postcode": "3511KH",
+        "addr:street": "Lijnmarkt",
+        "amenity": "bar",
+        "contact:facebook": "kaasbarutrecht",
+        "contact:instagram": "kaasbarutrecht",
+        "contact:phone": "+31 6 22335393",
+        "indoor_seating": "yes",
+        "name": "Kaasbar",
+        "opening_hours": "Mo-Th 17:00-24:00; Fr 15:00-01:00; Sa 13:00-01:00; Su 14:00-24:00",
+        "outdoor_seating": "no",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "toilets:wheelchair": "no",
+        "website": "https://www.kaasbarutrecht.nl/",
+        "wheelchair": "limited",
+        "wheelchair:description": "In het voorportaal moet men via een zijdeur naar binnen. Er is beperkte draairuimte.",
+        "mood": "jazz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1202903,
+          52.0900815
+        ]
+      },
+      "id": "node/2709276383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2709278541",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "16B",
+        "addr:postcode": "3512GD",
+        "addr:street": "Ganzenmarkt",
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "Poolcafé Hart van Utrecht",
+        "opening_hours": "Mo-We 14:00-24:00, Th 14:00-01:00, Fr 14:00-02:00, Sa 12:00-02:00, Su 12:00-24:00",
+        "outdoor_seating": "yes",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "sport": "billiards",
+        "website": "https://www.poolenutrecht.nl/",
+        "mood": "pop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.119405,
+          52.0923303
+        ]
+      },
+      "id": "node/2709278541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2709281267",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "32",
+        "addr:postcode": "3512AG",
+        "addr:street": "Neude",
+        "amenity": "pub",
+        "facebook": "https://www.facebook.com/eetcafelejournal",
+        "food": "yes",
+        "indoor_seating": "yes",
+        "name": "Le Journal",
+        "outdoor_seating": "yes",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "toilets:wheelchair": "no",
+        "twitter": "LeJournalNeude",
+        "website": "https://www.lejournal.nl",
+        "wheelchair": "no",
+        "wheelchair:description": "drempel ca 8 cm.",
+        "mood": "indie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.118719,
+          52.0927427
+        ]
+      },
+      "id": "node/2709281267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2709281675",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "36",
+        "addr:postcode": "3512GL",
+        "addr:street": "Oudkerkhof",
+        "amenity": "pub",
+        "facebook": "https://www.facebook.com/nieuwedikkedries",
+        "indoor_seating": "yes",
+        "name": "Nieuwe Dikke Dries",
+        "outdoor_seating": "yes",
+        "source": "local_knowledge",
+        "source:date": "2014-02-11",
+        "toilets:wheelchair": "no",
+        "twitter": "dikke_dries",
+        "website": "https://www.nieuwedikkedries.nl",
+        "wheelchair": "no",
+        "mood": "house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1215337,
+          52.0919927
+        ]
+      },
+      "id": "node/2709281675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2709281855",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "3",
+        "addr:postcode": "3511LH",
+        "addr:street": "Mariaplaats",
+        "amenity": "bar",
+        "indoor_seating": "yes",
+        "name": "‘t Taphuys",
+        "outdoor_seating": "yes",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "mood": "house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1181673,
+          52.0898354
+        ]
+      },
+      "id": "node/2709281855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2709284090",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "97",
+        "addr:postcode": "3511AL",
+        "addr:street": "Oudegracht aan de Werf",
+        "amenity": "nightclub",
+        "name": "Basis",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://clubbasis.nl/",
+        "wheelchair": "no",
+        "outdoor_seating": "no",
+        "mood": "techno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1166547,
+          52.092887
+        ]
+      },
+      "id": "node/2709284090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2709504776",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "22",
+        "addr:postcode": "3512EJ",
+        "addr:street": "Lucasbolwerk",
+        "amenity": "pub",
+        "name": "De Potdeksel",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://www.cafedepotdeksel.nl/",
+        "mood": "rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1258087,
+          52.0944711
+        ]
+      },
+      "id": "node/2709504776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2709631509",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "96",
+        "addr:postcode": "3512AV",
+        "addr:street": "Voorstraat",
+        "amenity": "pub",
+        "name": "Bar Josefien",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://barjosefien.nl/",
+        "wheelchair": "no",
+        "mood": "jazz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1227137,
+          52.0952212
+        ]
+      },
+      "id": "node/2709631509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2709755432",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "6",
+        "addr:postcode": "3512TH",
+        "addr:street": "Jacobijnenstraat",
+        "amenity": "bar",
+        "name": "De Laatste Halte",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "mood": "rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1172094,
+          52.0950139
+        ]
+      },
+      "id": "node/2709755432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2710002909",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "19",
+        "addr:postcode": "3511RL",
+        "addr:street": "Lange Koestraat",
+        "amenity": "pub",
+        "facebook": "https://www.facebook.com/cafevanwegen",
+        "name": "Café van Wegen",
+        "opening_hours": "Mo,Th-Fr 16:00-23:00; Sa 14:00-23:00; Su 16:00-20:30",
+        "source": "local_knowledge",
+        "source:date": "2014-02-11",
+        "website": "https://www.cafevanwegen.nl/",
+        "mood": "house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.114193,
+          52.0936291
+        ]
+      },
+      "id": "node/2710002909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2710003021",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "2",
+        "addr:postcode": "3511RP",
+        "addr:street": "Korte Koestraat",
+        "amenity": "pub",
+        "facebook": "https://www.facebook.com/cafewillemslok",
+        "name": "Café Willem Slok",
+        "opening_hours": "Su-We 16:00-24:00, Th-Sa 16:00-01:00",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "twitter": "cafeWillemSlok",
+        "website": "https://www.willemslok.com",
+        "mood": "indie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.11229,
+          52.0932223
+        ]
+      },
+      "id": "node/2710003021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2710004821",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "39",
+        "addr:postcode": "3511BD",
+        "addr:street": "Vredenburg",
+        "amenity": "pub",
+        "facebook": "https://www.facebook.com/gacho.cafevredenburg",
+        "indoor_seating": "yes",
+        "name": "Café Vredenburg",
+        "outdoor_seating": "yes",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "twitter": "vredenburg39",
+        "website": "https://cafevredenburg.nl",
+        "mood": "rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1124134,
+          52.0930353
+        ]
+      },
+      "id": "node/2710004821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2721300031",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "23",
+        "addr:postcode": "3531JX",
+        "addr:street": "Keulsekade",
+        "amenity": "pub",
+        "brewery": "various",
+        "indoor_seating": "yes",
+        "name": "Café Kanaalzicht",
+        "opening_hours": "Mo,Su 11:00-00:00; Tu-Th 11:00-01:00; Fr,Sa 11:00-02:00",
+        "outdoor_seating": "yes",
+        "phone": "+31 30 293 0066",
+        "smoking": "outside",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://www.cafekanaalzicht.nl/",
+        "mood": "indie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0905544,
+          52.0901603
+        ]
+      },
+      "id": "node/2721300031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2721306090",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "39",
+        "addr:postcode": "3531JC",
+        "addr:street": "Laan van Nieuw-Guinea",
+        "amenity": "pub",
+        "facebook": "https://www.facebook.com/pages/Cafe-De-Windhoek/175461549182039",
+        "name": "De Windhoek",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "toilets:wheelchair": "no",
+        "twitter": "CafeDeWindhoek",
+        "website": "https://www.dewindhoek.nl/",
+        "wheelchair": "no",
+        "wheelchair:description": "Drempel ca 10 cm",
+        "mood": "pop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.090125,
+          52.0912251
+        ]
+      },
+      "id": "node/2721306090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2721312636",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "69",
+        "addr:postcode": "3531EP",
+        "addr:street": "Jan Pieterszoon Coenstraat",
+        "amenity": "pub",
+        "name": "Kleine Max",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://www.kleinemax.nl/",
+        "mood": "rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0975928,
+          52.0911797
+        ]
+      },
+      "id": "node/2721312636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2722191409",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "15",
+        "addr:postcode": "3534AZ",
+        "addr:street": "Nijverheidskade",
+        "amenity": "bar",
+        "email": "info@denijverheid.org",
+        "indoor_seating": "yes",
+        "name": "De Nijverheid",
+        "opening_hours": "Mo-We 12:00-18:00; Th 12:00-23:00; Fr 12:00-23:59; Sa 16:00-23:59",
+        "opening_hours:kitchen": "Th-Fr 12:00-22:00; Sa 16:00-22:00",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://www.denijverheid.org/",
+        "mood": "jazz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0835219,
+          52.1003671
+        ]
+      },
+      "id": "node/2722191409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2722192190",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "3",
+        "addr:postcode": "3534AV",
+        "addr:street": "Gietijzerstraat",
+        "amenity": "nightclub",
+        "email": "info@kabulagogo.nl",
+        "name": "Kabul à GoGo",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "start_date": "2024-04-12",
+        "website": "https://www.kabulagogo.nl/",
+        "mood": "house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0830514,
+          52.1031615
+        ]
+      },
+      "id": "node/2722192190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2722194029",
+        "access": "yes",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "63",
+        "addr:postcode": "3534AR",
+        "addr:street": "Vlampijpstraat",
+        "alt_name": "dB's",
+        "amenity": "pub",
+        "email": "info@dbstudio.nl",
+        "name": "dB's Studio",
+        "opening_hours": "Mo-We 17:00-01:00; Th-Fr 17:00-02:00; Sa 12:00-02:00; Su 12:00-01:00",
+        "phone": "+31 30 293 82 09",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://www.dbstudio.nl/",
+        "mood": "pop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0833383,
+          52.1057063
+        ]
+      },
+      "id": "node/2722194029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2732310324",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "2C",
+        "addr:postcode": "3526KS",
+        "addr:street": "Europalaan",
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "name": "De Kromme Haring",
+        "opening_hours": "Tu-We 16:00-23:00; Th 16:00-00:00; Fr 15:00-00:00; Sa 14:00-00:00; Su 14:00-20:00",
+        "outdoor_seating": "yes",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://dekrommeharing.nl/",
+        "mood": "indie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1076387,
+          52.0757559
+        ]
+      },
+      "id": "node/2732310324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2732311786",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "50",
+        "addr:postcode": "3526KM",
+        "addr:street": "Kanaalweg",
+        "amenity": "bar",
+        "brewery": "Heineken",
+        "email": "kanaalweg@karmakebab.nl",
+        "indoor_seating": "yes",
+        "name": "Karma Kebab Utrecht",
+        "opening_hours": "Th-Fr 15:00-00:00; Sa 12:00-00:00; Su 12:00-23:00",
+        "opening_hours:kitchen": "Th-Fr 15:00-21:30; Sa-Su 12:00-21:30",
+        "outdoor_seating": "yes",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "website": "https://www.karmakebab.nl/utrecht",
+        "mood": "rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1093015,
+          52.075131
+        ]
+      },
+      "id": "node/2732311786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2738062831",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "33",
+        "addr:postcode": "3541BE",
+        "addr:street": "Oude Vleutenseweg",
+        "amenity": "pub",
+        "cuisine": "burger",
+        "drink:beer": "yes",
+        "indoor_seating": "yes",
+        "microbrewery": "yes",
+        "name": "Stadsbrouwerij RoodNoot",
+        "opening_hours": "We-Th 16:00-23:00; Fr-Sa 12:00-24:00; Su 12:00-20:00",
+        "outdoor_seating": "yes",
+        "source": "BAG",
+        "source:date": "2014-02-11",
+        "takeaway": "no",
+        "website": "https://www.stadsbrouwerijroodnoot.nl/",
+        "wheelchair:description": "Voor minder validen zijn er een aantal parkeerplekken voor de deur beschikbaar",
+        "mood": "indie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0726803,
+          52.0973382
+        ]
+      },
+      "id": "node/2738062831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2773780070",
+        "addr:city": "Vleuten",
+        "addr:housenumber": "2F",
+        "addr:postcode": "3451EZ",
+        "addr:street": "Hindersteinlaan",
+        "amenity": "pub",
+        "name": "Cafe Happy Days",
+        "phone": "+31 30 677 0973",
+        "source": "BAG",
+        "source:date": "2014-03-24",
+        "website": "https://www.cafehappydays.org",
+        "mood": "pop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0127343,
+          52.1063602
+        ]
+      },
+      "id": "node/2773780070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3008418846",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "901",
+        "addr:postcode": "3584DW",
+        "addr:street": "Cambridgelaan",
+        "amenity": "bar",
+        "name": "Cambridgebar",
+        "opening_hours": "Mo-Th 21:00-02:00; Fr-Sa 22:00-01:00",
+        "smoking": "outside",
+        "website": "https://cambridgebar.nl/",
+        "wheelchair": "no",
+        "mood": "house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1723513,
+          52.0828385
+        ]
+      },
+      "id": "node/3008418846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3024584080",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "27",
+        "addr:postcode": "3522HB",
+        "addr:street": "Jutfaseweg",
+        "amenity": "pub",
+        "check_date": "2025-05-09",
+        "name": "Café Biljart Cobus",
+        "source": "BAG",
+        "source:date": "2014-08-18",
+        "mood": "jazz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1204983,
+          52.0763746
+        ]
+      },
+      "id": "node/3024584080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3149008697",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "28",
+        "addr:postcode": "3522HC",
+        "addr:street": "Jutfaseweg",
+        "amenity": "pub",
+        "check_date": "2025-05-09",
+        "name": "Café Ons Honk",
+        "source": "BAG",
+        "source:date": "2018-09-03",
+        "mood": "indie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1204556,
+          52.076205
+        ]
+      },
+      "id": "node/3149008697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3180909481",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "9",
+        "addr:postcode": "3511KV",
+        "addr:street": "Donkeregaard",
+        "amenity": "bar",
+        "facebook": "https://www.facebook.com/talud9",
+        "indoor_seating": "yes",
+        "name": "Talud9",
+        "outdoor_seating": "yes",
+        "source": "local_knowledge",
+        "toilets:wheelchair": "no",
+        "website": "https://www.talud9.nl/",
+        "wheelchair": "yes",
+        "mood": "jazz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1209517,
+          52.0898833
+        ]
+      },
+      "id": "node/3180909481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3308024861",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "329",
+        "addr:street": "Herculesplein",
+        "amenity": "bar",
+        "name": "Dito",
+        "smoking": "no",
+        "mood": "pop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1466727,
+          52.0775411
+        ]
+      },
+      "id": "node/3308024861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4074023910",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "6C",
+        "addr:postcode": "3511CE",
+        "addr:street": "Stationshal",
+        "amenity": "bar",
+        "layer": "4",
+        "level": "2",
+        "name": "Bar Centraal",
+        "source": "BAG",
+        "source:date": "2016-03-22",
+        "mood": "jazz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1099287,
+          52.0896944
+        ]
+      },
+      "id": "node/4074023910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4320028603",
+        "amenity": "pub",
+        "food": "yes",
+        "name": "Koetshuis de Haar",
+        "outdoor_seating": "yes",
+        "phone": "+31 30 262 7374",
+        "website": "https://www.koetshuisdehaar.nl/",
+        "mood": "techno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.983325,
+          52.1196219
+        ]
+      },
+      "id": "node/4320028603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4428621681",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "154",
+        "addr:postcode": "3511AL",
+        "addr:street": "Oudegracht aan de Werf",
+        "amenity": "bar",
+        "contact:phone": "+31 30 305 0500",
+        "contact:website": "https://www.clubmaggy.nl",
+        "name": "Club Maggy",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited",
+        "wheelchair:description": "via Ganzenmarkt zeer hobbelig. Drempel ca 5 cm.",
+        "mood": "jazz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1183109,
+          52.0917598
+        ]
+      },
+      "id": "node/4428621681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4580064443",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "87",
+        "addr:postcode": "3523CB",
+        "addr:street": "Helling",
+        "amenity": "pub",
+        "check_date": "2025-03-09",
+        "name": "Camping Ganspoort",
+        "opening_hours": "Mo-Fr 08:00-24:00+; Sa,Su,PH 09:00-24:00+",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "source": "BAG",
+        "source:date": "2016-12-29",
+        "toilets": "yes",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.campingganspoort.nl",
+        "wheelchair": "yes",
+        "mood": "techno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.121471,
+          52.0761321
+        ]
+      },
+      "id": "node/4580064443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4580064467",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "9",
+        "addr:postcode": "3523CB",
+        "addr:street": "Helling",
+        "amenity": "pub",
+        "check_date": "2025-03-17",
+        "email": "info@taplokaalgist.nl",
+        "indoor_seating": "yes",
+        "name": "Taplokaal Gist",
+        "opening_hours": "Mo-Th 16:00-24:00; Fr-Sa 14:00-01:00; Su 14:00-22:00",
+        "outdoor_seating": "yes",
+        "phone": "+31 6 18445344",
+        "smoking": "outside",
+        "source": "BAG",
+        "source:date": "2016-12-29",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.taplokaalgist.nl/",
+        "wheelchair": "yes",
+        "mood": "jazz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.121416,
+          52.0765511
+        ]
+      },
+      "id": "node/4580064467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5497620180",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "43",
+        "addr:postcode": "3534AP",
+        "addr:street": "Tractieweg",
+        "amenity": "pub",
+        "name": "Werkspoorcafé",
+        "operator": "De Proefzaak",
+        "source": "BAG",
+        "source:date": "2018-03-22",
+        "website": "https://deproefzaak.nl/werkspoorcafe",
+        "mood": "pop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0791753,
+          52.1057233
+        ]
+      },
+      "id": "node/5497620180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7467403676",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "2",
+        "addr:postcode": "3585LJ",
+        "addr:street": "Laan van Maarschalkerweerd",
+        "amenity": "pub",
+        "contact:facebook": "moestuinutrecht",
+        "contact:instagram": "moestuin_utrecht_",
+        "email": "info@moestuinutrecht.nl",
+        "indoor_seating": "yes",
+        "name": "De Moestuin",
+        "opening_hours": "Mo-Su 10:00-17:00",
+        "outdoor_seating": "yes",
+        "phone": "+31 30 2144 869",
+        "smoking": "no",
+        "website": "https://www.moestuinutrecht.nl/lunchcafe",
+        "mood": "house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.151729,
+          52.077966
+        ]
+      },
+      "id": "node/7467403676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9040445572",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "12",
+        "addr:postcode": "3534AZ",
+        "addr:street": "Nijverheidskade",
+        "amenity": "pub",
+        "indoor_seating": "yes",
+        "microbrewery": "yes",
+        "name": "Boot 122",
+        "opening_hours": "We,Th 15:00-23:00, Fr,Sa 15:00-01:00, Su 15:00-21:00",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "source": "BAG",
+        "source:date": "2021-08-27",
+        "mood": "indie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0827875,
+          52.1002706
+        ]
+      },
+      "id": "node/9040445572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9253278287",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "174",
+        "addr:postcode": "3582LZ",
+        "addr:street": "Burgemeester ter Pelkwijklaan",
+        "amenity": "bar",
+        "email": "info@kweekvijverutrecht.nl",
+        "name": "KweekVijver Utrecht",
+        "opening_hours": "We-Su 11:00+",
+        "phone": "+31 30 202 7487",
+        "source": "BAG",
+        "source:date": "2021-11-15",
+        "mood": "techno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1361668,
+          52.0803633
+        ]
+      },
+      "id": "node/9253278287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9633384690",
+        "addr:housenumber": "5",
+        "addr:postcode": "3562LG",
+        "addr:street": "Beyaertdreef",
+        "amenity": "pub",
+        "contact:facebook": "oproerbrouwerij",
+        "contact:instagram": "oproerbrouwerij",
+        "diet:vegan": "yes",
+        "email": "cafe@oproerbrouwerij.nl",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "microbrewery": "yes",
+        "name": "Oproer Biercafé",
+        "opening_hours": "We 15:00-22:00, Th 15:00-23:00, Fr 15:00-01:00, Sa 13:00-01:00, Su 13:00-22:00",
+        "outdoor_seating": "yes",
+        "phone": "+31 6 83033194",
+        "website": "https://www.oproerbrouwerij.nl/pages/biercafe",
+        "website:menu": "https://www.oproerbrouwerij.nl/pages/menukaart",
+        "mood": "jazz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1114129,
+          52.1111578
+        ]
+      },
+      "id": "node/9633384690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9689470198",
+        "addr:housenumber": "6",
+        "addr:street": "Nijverheidsweg",
+        "amenity": "bar",
+        "description": "lunch cafe and bar in one?",
+        "indoor_seating": "yes",
+        "name": "Nar",
+        "opening_hours": "We, Th 12:00-00:00; Fr 12:00-01:00; Sa 12:00-02:00; Su 12:00-22:00",
+        "outdoor_seating": "yes",
+        "phone": "+31 30 307 4326",
+        "website": "https://www.narcafederkunsten.nl/",
+        "mood": "techno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0834009,
+          52.1010722
+        ]
+      },
+      "id": "node/9689470198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10548664934",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "83",
+        "addr:postcode": "3511AL",
+        "addr:street": "Oudegracht aan de Werf",
+        "amenity": "bar",
+        "name": "BoulesBitesBar",
+        "source": "BAG",
+        "source:date": "2023-01-13",
+        "website": "https://www.boulesbitesbar.nl/utrecht/",
+        "mood": "pop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1166496,
+          52.0931407
+        ]
+      },
+      "id": "node/10548664934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10799554309",
+        "amenity": "bar",
+        "name": "De Bierkantine",
+        "mood": "indie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0933759,
+          52.0833655
+        ]
+      },
+      "id": "node/10799554309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11259443853",
+        "addr:city": "Utrecht",
+        "addr:housenumber": "54",
+        "addr:postcode": "3511AC",
+        "addr:street": "Oudegracht aan de Werf",
+        "amenity": "bar",
+        "name": "The Malt Vault",
+        "opening_hours": "We-Th 18:00-24:00; Fr 17:00-24:00; Sa 16:00-24:00",
+        "source": "BAG",
+        "source:date": "2023-10-13",
+        "website": "https://www.themaltvault.nl/utrecht",
+        "mood": "rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1167852,
+          52.0948516
+        ]
+      },
+      "id": "node/11259443853"
+    }
+  ]
+}

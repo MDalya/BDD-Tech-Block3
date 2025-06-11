@@ -1,0 +1,16 @@
+[out:json][timeout:25];
+area["name"="Utrecht"]["boundary"="administrative"]["admin_level"="8"]->.searchArea;
+(
+  node["amenity"="pub"](area.searchArea);
+  way["amenity"="pub"](area.searchArea);
+  relation["amenity"="pub"](area.searchArea);
+
+  node["amenity"="bar"](area.searchArea);
+  way["amenity"="bar"](area.searchArea);
+  relation["amenity"="bar"](area.searchArea);
+
+  node["amenity"="nightclub"](area.searchArea);
+  way["amenity"="nightclub"](area.searchArea);
+  relation["amenity"="nightclub"](area.searchArea);
+);
+out center;
