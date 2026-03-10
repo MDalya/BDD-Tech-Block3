@@ -11,7 +11,6 @@ def load_data():
     with open(DATA_PATH, "r", encoding="utf-8") as f:
         geojson = json.load(f)
     
-    # Extraire les points et propriétés
     rows = []
     for feature in geojson["features"]:
         if feature["geometry"]["type"] != "Point":
@@ -20,21 +19,24 @@ def load_data():
         props = feature.get("properties", {})
         props["lon"] = coords[0]
         props["lat"] = coords[1]
+
+        # Nettoyage des colonnes importantes
+        props["name"] = props.get("name", "Unnamed place").lower()
+        props["amenity"] = props.get("amenity", "").lower()
+        props["mood"] = props.get("mood", "unknown").lower()
+        props["outdoor_seating"] = props.get("outdoor_seating", "no").lower()
+        props["wheelchair"] = props.get("wheelchair", "no").lower()
+
         rows.append(props)
     
     df = pd.DataFrame(rows)
     
-    # Nettoyer les colonnes
-    for col in ["outdoor_seating", "wheelchair", "mood", "amenity", "name"]:
-        if col in df.columns:
-            df[col] = df[col].fillna("unknown").str.lower()
-    
-    if "name" in df.columns:
-        df["name"] = df["name"].replace("unknown", "Unnamed place")
-    
     return df
 
 df = load_data()
+
+# Affichage du dataframe pour debug (supprimer après)
+st.write("Data preview:", df.head())
 
 # Main title
 st.title("🍹 Recommender System - Places to Visit Based on Your Mood")
@@ -66,7 +68,6 @@ filtered_df = df[
 st.subheader(f"🎯 {len(filtered_df)} place(s) found")
 
 if not filtered_df.empty:
-    # Interactive map
     layer = pdk.Layer(
         "ScatterplotLayer",
         data=filtered_df,
@@ -98,8 +99,6 @@ if not filtered_df.empty:
         tooltip=tooltip
     ))
 
-    # Results table
     st.dataframe(filtered_df[["name", "amenity", "mood", "outdoor_seating", "wheelchair", "lat", "lon"]])
-
 else:
     st.warning("No place matches your search criteria.")
