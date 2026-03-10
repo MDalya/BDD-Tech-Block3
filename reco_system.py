@@ -1,29 +1,38 @@
 import streamlit as st
-import geopandas as gpd
+import pandas as pd
 import pydeck as pdk
+import json
+import pathlib
 
 # Data loading
 def load_data():
-    gdf = gpd.read_file("export.geojson")
-    gdf.columns = gdf.columns.str.strip().str.lower()
-
-    # Keep only valid points
-    gdf = gdf[gdf.geometry.type == "Point"]
-    gdf = gdf[gdf.geometry.notnull()]
-
-    # Extract coordinates
-    gdf["lon"] = gdf.geometry.x
-    gdf["lat"] = gdf.geometry.y
-
-    # Clean relevant columns
-    for col in ["outdoor_seating", "wheelchair"]:
-        gdf[col] = gdf[col].fillna("no").str.lower()
-
-    gdf["name"] = gdf["name"].fillna("Unnamed place")
-    gdf["mood"] = gdf["mood"].fillna("unknown").str.lower()
-    gdf["amenity"] = gdf["amenity"].fillna("").str.lower()
-
-    return gdf
+    DATA_PATH = pathlib.Path(__file__).parent / "export.geojson"
+    
+    with open(DATA_PATH, "r", encoding="utf-8") as f:
+        geojson = json.load(f)
+    
+    # Extraire les points et propriétés
+    rows = []
+    for feature in geojson["features"]:
+        if feature["geometry"]["type"] != "Point":
+            continue
+        coords = feature["geometry"]["coordinates"]
+        props = feature.get("properties", {})
+        props["lon"] = coords[0]
+        props["lat"] = coords[1]
+        rows.append(props)
+    
+    df = pd.DataFrame(rows)
+    
+    # Nettoyer les colonnes
+    for col in ["outdoor_seating", "wheelchair", "mood", "amenity", "name"]:
+        if col in df.columns:
+            df[col] = df[col].fillna("unknown").str.lower()
+    
+    if "name" in df.columns:
+        df["name"] = df["name"].replace("unknown", "Unnamed place")
+    
+    return df
 
 df = load_data()
 
